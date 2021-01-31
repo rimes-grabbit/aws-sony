@@ -1,4 +1,4 @@
-# aws-sony
+# AWS Sony-TV control 
 Python app that is using AWS IoT to control a Sony TV 
 
 
